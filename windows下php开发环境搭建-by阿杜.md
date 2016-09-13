@@ -122,5 +122,7 @@ win+x打开命令提示符 进入D:\wamp\Apache24\bin文件目录下，输入命
 	自此所有php相关环境已安装完成，新的项目 代码可以放到 D:\wamp\Apache24\htdocs 下
 	 
 	项目中所用到的git工具，可以在 https://git-scm.com/download/win 下载并安装
+	
+	git相关教程可以参考 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
 
 	
